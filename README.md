@@ -12,3 +12,7 @@ Its are easy use and easy reuse.
 - C#10 Later
 - .NET 6 Later
 - Windows Only
+
+## Usage
+
+Copy to your project.  
