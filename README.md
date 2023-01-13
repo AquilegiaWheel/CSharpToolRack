@@ -16,3 +16,5 @@ Its are easy use and easy reuse.
 ## Usage
 
 Copy to your project.  
+
+## Note
